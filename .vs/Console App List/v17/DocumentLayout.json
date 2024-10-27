@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victus\\source\\repos\\Console App List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D69EEED-FE22-4739-A8AE-9A5DE54D23BB}|Console App List\\Console App List.csproj|c:\\users\\victus\\source\\repos\\console app list\\console app list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D69EEED-FE22-4739-A8AE-9A5DE54D23BB}|Console App List\\Console App List.csproj|solutionrelative:console app list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D69EEED-FE22-4739-A8AE-9A5DE54D23BB}|Console App List\\Console App List.csproj|c:\\users\\victus\\source\\repos\\console app list\\console app list\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D69EEED-FE22-4739-A8AE-9A5DE54D23BB}|Console App List\\Console App List.csproj|solutionrelative:console app list\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D69EEED-FE22-4739-A8AE-9A5DE54D23BB}|Console App List\\Console App List.csproj|c:\\users\\victus\\source\\repos\\console app list\\console app list\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D69EEED-FE22-4739-A8AE-9A5DE54D23BB}|Console App List\\Console App List.csproj|solutionrelative:console app list\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D69EEED-FE22-4739-A8AE-9A5DE54D23BB}|Console App List\\Console App List.csproj|c:\\users\\victus\\source\\repos\\console app list\\console app list\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D69EEED-FE22-4739-A8AE-9A5DE54D23BB}|Console App List\\Console App List.csproj|solutionrelative:console app list\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D69EEED-FE22-4739-A8AE-9A5DE54D23BB}|Console App List\\Console App List.csproj|c:\\users\\victus\\source\\repos\\console app list\\console app list\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D69EEED-FE22-4739-A8AE-9A5DE54D23BB}|Console App List\\Console App List.csproj|solutionrelative:console app list\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Console App List\\Console App List\\Program.cs",
+              "RelativeDocumentMoniker": "Console App List\\Program.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Console App List\\Console App List\\Program.cs",
+              "RelativeToolTip": "Console App List\\Program.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAQwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T12:40:49.669Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomException.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Console App List\\Console App List\\CustomException.cs",
+              "RelativeDocumentMoniker": "Console App List\\CustomException.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Console App List\\Console App List\\CustomException.cs",
+              "RelativeToolTip": "Console App List\\CustomException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:06:19.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Console App List\\Console App List\\Hotel.cs",
+              "RelativeDocumentMoniker": "Console App List\\Hotel.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Console App List\\Console App List\\Hotel.cs",
+              "RelativeToolTip": "Console App List\\Hotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T12:42:45.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Console App List\\Console App List\\Room.cs",
+              "RelativeDocumentMoniker": "Console App List\\Room.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Console App List\\Console App List\\Room.cs",
+              "RelativeToolTip": "Console App List\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T12:42:39.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Console App List\\Console App List\\DbContext.cs",
+              "RelativeDocumentMoniker": "Console App List\\DbContext.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Console App List\\Console App List\\DbContext.cs",
+              "RelativeToolTip": "Console App List\\DbContext.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAA9wEcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T12:42:04.339Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

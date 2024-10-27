@@ -1,0 +1,14 @@
+C:\Users\Victus\source\repos\Console App List\Console App List\bin\Debug\net8.0\Console App List.exe
+C:\Users\Victus\source\repos\Console App List\Console App List\bin\Debug\net8.0\Console App List.deps.json
+C:\Users\Victus\source\repos\Console App List\Console App List\bin\Debug\net8.0\Console App List.runtimeconfig.json
+C:\Users\Victus\source\repos\Console App List\Console App List\bin\Debug\net8.0\Console App List.dll
+C:\Users\Victus\source\repos\Console App List\Console App List\bin\Debug\net8.0\Console App List.pdb
+C:\Users\Victus\source\repos\Console App List\Console App List\obj\Debug\net8.0\Console App List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\source\repos\Console App List\Console App List\obj\Debug\net8.0\Console App List.AssemblyInfoInputs.cache
+C:\Users\Victus\source\repos\Console App List\Console App List\obj\Debug\net8.0\Console App List.AssemblyInfo.cs
+C:\Users\Victus\source\repos\Console App List\Console App List\obj\Debug\net8.0\Console App List.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\Console App List\Console App List\obj\Debug\net8.0\Console App List.dll
+C:\Users\Victus\source\repos\Console App List\Console App List\obj\Debug\net8.0\refint\Console App List.dll
+C:\Users\Victus\source\repos\Console App List\Console App List\obj\Debug\net8.0\Console App List.pdb
+C:\Users\Victus\source\repos\Console App List\Console App List\obj\Debug\net8.0\Console App List.genruntimeconfig.cache
+C:\Users\Victus\source\repos\Console App List\Console App List\obj\Debug\net8.0\ref\Console App List.dll
